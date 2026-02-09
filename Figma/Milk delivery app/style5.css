@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.hero{
+    text-align: center;
+    justify-content: center;
+  
+}
+.bg img{
+    height: 900px;
+}
+.photos{
+    margin-top: -690px;
+}
+
+.photos img{
+     height: 500px;
+    margin: 22px;
+
+}
+
+  

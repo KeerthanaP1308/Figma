@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.hero{
+    display: flex;
+    background-color: #EBEBEB;
+    height: 100vh;
+}
+
+.left{
+    width: 660px;
+    height: 300px;
+    margin: 60px;
+}
+
+span{
+    color: #71AA38;
+    text-decoration: underline;
+    font-size: small;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+h3{
+    text-transform:capitalize ;
+    font-size: 50px;
+
+}
+
+p{
+    margin-top: 40px;
+
+}
+
+.proImg{
+    height: 65px;
+     margin-top: 30px;
+
+}
+
+.proName{
+    margin-left: 10px;
+}
+
+.milk{
+    height: 300px;
+    margin-top: 150px;
+}
+

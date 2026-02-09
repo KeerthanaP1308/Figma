@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.hero{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+span{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #71AA38;
+    text-decoration: underline;
+    font-size: small;
+  
+}
+
+h2{
+font-weight: 700;
+font-size: 25px;
+line-height: 40px;
+text-transform: capitalize;
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.firstLine{
+font-weight: 400;
+font-size: 13px;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: right;
+text-transform: capitalize;
+margin-top: 40px;
+width: 350px;
+ width: 280px;
+
+}
+.lastLine{
+font-weight: 400;
+font-size: 12px;
+line-height: 25px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+margin-top: 40px;
+width: 350px;
+ width: 250px;
+
+}
+
+.phone{
+    height: 465px;
+    margin-top: 24px;
+}
+
+.lLine{
+  height: 280px;
+    margin-top: 32px;
+    margin-left: 30px;
+}
+.rLine{
+     height: 280px;
+    margin-top: 32px;
+    margin-right: 30px;
+}
+
+.two,.three{
+    margin-top: 20px;
+    
+}
+.footer{
+ height: 120px;
+ margin-top: -500px;
+}
+.leftLine,.rightLine{
+     position: relative;
+}
+
+.dot1{
+    position: absolute;
+    left: 21px;
+    top: 55px;
+}
+
+.dot2{
+     position: absolute;
+    left: 21px;
+     top: 150px;
+}
+.dot3{
+     position: absolute;
+     left: 21px;
+      bottom: 215px;
+
+}
+.rdot1{
+    position: absolute;
+    right: 21px;
+    top: 55px;
+}
+
+.rdot2{
+     position: absolute;
+    right: 21px;
+     top: 150px;
+}
+.rdot3{
+     position: absolute;
+    right: 21px;
+      bottom: 215px;
+
+}
