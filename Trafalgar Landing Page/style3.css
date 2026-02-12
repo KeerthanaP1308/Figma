@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+ .page3 .content{
+    display: flex;
+    margin-top: 50px;
+ }
+
+ .page3 .content .right{
+    width: 400px;
+    height: 330px;
+    margin-top: 100px;
+    margin-left: 100px;
+ }
+ .page3 h2{
+    font-size: xx-large;
+    font-weight: 700;
+ }
+ .page3 p{
+    margin-top: 20px;
+    color: gray;
+    line-height: 30px;
+ }
+
+ .page3 .learn{
+    height: 50px;
+    width: 150px;
+    border: 2px solid #458FF6;
+    margin-top: 40px;
+    border-radius: 40px;
+    padding-top: 12px;
+    text-align: center;
+    color: #458FF6;
+    font-size: medium;
+ }
+
+ .page3 .left img{
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 50px;
+ }
+
+
+ 
+
+

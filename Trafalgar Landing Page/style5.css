@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+
+.page5{
+  position: relative;
+  color: #FFFFFF;
+}
+
+.page5 .box{
+    position: absolute;
+    width: 1000px;
+    height: 350px;
+    border-radius: 24px;
+    background: linear-gradient(to right,#5A98F2, #67C3F3);
+    align-items: center;
+    text-align: center;
+    top: 200px;
+    left: calc(50% - 500px);    
+
+}
+.page5 .content{
+    display: flex;
+}
+
+.page5 .left{
+    display: flex;
+    height: 120px;
+    width: 300px;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+.page5 .right{
+    width: 420px;
+    height: 120px;
+    margin-left: 50px;
+}
+
+.page5 .profile{
+    height: 120px;
+    width: 120px;
+}
+.page5 .names{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 38px;
+    line-height: 25px;
+}
+.page5 .name{
+    font-weight: 700;
+    font-size: 18px;
+}
+.page5 .role{
+    color: #FFFFFFD9;
+    font-size: medium;
+}
+.page5 h1{
+    margin-top: 40px;
+}
+
+.page5 p{
+    text-align: left;
+    margin-top: 70px;
+    width: 350px;
+    margin-left: 90px;
+    color: #FFFFFFE5;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.page5 .ele{
+    position: absolute;
+    top: 350px;
+    left:125px;
+}
+.page5 .ele2{
+    position: absolute;
+    right:130px;
+    top:190px;
+    z-index: 1;
+}
+
+.page5 .arrow{
+  position: absolute;
+ left: calc(50% - 150px);
+ top: 590px;
+}
