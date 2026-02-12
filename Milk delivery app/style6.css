@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.page6{
+    display: flex;
+    background-color: #EBEBEB;
+    height: 100vh;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.page6 .left{
+    width: 660px;
+    height: 300px;
+    margin: 60px;
+}
+
+.page6 span{
+    color: #71AA38;
+    text-decoration: underline;
+    font-size: small;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.page6 h3{
+    text-transform:capitalize ;
+    font-size: 50px;
+
+}
+
+.page6 p{
+    margin-top: 40px;
+
+}
+
+.proImg{
+    height: 65px;
+     margin-top: 30px;
+
+}
+
+.page6 .proName{
+    margin-left: 10px;
+}
+
+.page6 .milk{
+    height: 300px;
+    margin-top: 150px;
+}
+

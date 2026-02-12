@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+.page3{
+    position: relative;
+    background: linear-gradient(#EBEBEB, #FFFFFF);
+}
+.page3 .torn{
+    position: relative;
+    width: 100%;
+}
+.page3 .left{
+    position: absolute;
+    top: 340px;
+    left: 100px;
+    height: 500px;
+    width: 600px;
+    color:#FFFFFF;
+}
+.page3 h1{
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-weight: 550;
+}
+.page3 p{
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.google{
+    padding-top: 25px;
+    margin-left: -23px;  
+}
+
+.page3 .phone{
+    position: absolute;
+    top:35px;
+    left: 785px;
+}
+ .page3 .milk{
+position: absolute;
+top: 510px;
+left: 1000px;
+}
+
+
+
+

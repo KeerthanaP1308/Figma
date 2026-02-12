@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.page7{
+position: relative;
+}
+
+
+.page7 img{
+    width: 100%;
+    display: block;
+}
+.page7 .right{
+    width: 650px;
+    height: 500px;
+    border-radius: 35px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    position: absolute;
+    top: 180px;    
+    right: 90px;   
+}
+
+.page7 span{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #71AA38;
+    margin-left: 15px;
+    font-size: small;
+}
+
+.page7 h3{
+    font-size: xx-large;
+     margin-left: 15px;
+    margin-bottom: 30px;
+}
+.page7 .name,.mail,.msg{
+    width: 550px;
+    border: 1px solid grey;
+    margin: 10px;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding: 10px;
+    
+}
+
+.page7 input:focus{
+    outline: none;
+}
+.page7 .msg{
+    height: 130px;
+    padding-bottom: 85px;
+
+}
+.page7 button{
+         margin-left: 15px;
+         background-color: #71AA38;
+         color: white;
+         border: none;
+         height: 40px;
+         width: 130px;
+         margin-top: 20px;
+         border-radius: 20px;
+         padding: 5px;
+         cursor: pointer;
+
+}
+
+.page7 .footer{
+     display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    background-color: #EBEBEB;  
+    gap: 250px; 
+    bottom: 0px;
+    width: 100%;
+    height: 115px;
+}
+
+.page7 .footer .de{
+    margin-top: 20px;
+    height: 80px;
+    width: 150px;
+
+    
+}
+.page7 .about{
+    align-items: center;
+    display: flex;
+    list-style: none;
+    margin-top: -5px;
+    gap: 20px;
+
+}
+.page7 .logo{  
+     display: flex;
+     margin-top: 10px;
+     gap: 20px;
+}
+
+.page7 .milk{
+    position: absolute;
+    width: 1350px;
+    bottom:100px;
+}
+.page7 .center{
+    display: flex;
+    margin-top: -15px;
+}
+.page7 .last{
+     margin-top: 30px;
+
+}
+
+
+.page7 .copy{
+position: absolute;
+bottom: 8px;
+left: 45%;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.page5{
+    text-align: center;
+    justify-content: center;
+  
+}
+.page5 .bg img{
+    height: 850px;
+}
+.page5 .photos{
+    margin-top: -690px;
+}
+
+.page5 .photos img{
+     height: 500px;
+    margin: 22px;
+
+}
+
+  
